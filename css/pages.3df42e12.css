@@ -1,0 +1,38 @@
+html,
+body,
+#app {
+  width: 100%;
+  height: 100%;
+  /* background-color: #292D32; */
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+img {
+  -webkit-touch-callout: none;
+  pointer-events: none;
+}
+div {
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+.HomePage[data-v-7999b8b3] {
+  width: 100%;
+  text-align: left;
+}
+.home {
+  width: 100%;
+  height: 100%;
+}
+.Page[data-v-6c3e3d34] {
+  width: 100%;
+  text-align: left;
+}
